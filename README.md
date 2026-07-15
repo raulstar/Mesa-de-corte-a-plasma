@@ -4,7 +4,8 @@ Projeto de uma mesa de corte a plasma desmontável, desenvolvida para o corte de
 
 O equipamento foi projetado e simulado em computador a partir dos requisitos do cliente, com foco em uma estrutura leve, modular e adaptável para diferentes tipos de serviço.
 
-![Modelo 3D do conjunto de movimentação e tocha](Midia/Modelo 3d.png)
+![Modelo 3D do conjunto de movimentação e tocha](Midia/detalhe-guia-cantoneira.jpg)
+
 ![Modelo 3D do conjunto de movimentação e tocha](docs/images/detalhe-carro-e-tocha.jpg)
 
 ## Visão geral
