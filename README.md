@@ -6,7 +6,7 @@ O equipamento foi projetado e simulado em computador a partir dos requisitos do 
 
 ![Modelo 3D do conjunto de movimentação e tocha](Midia/detalhe-guia-cantoneira.jpg)
 
-![Modelo 3D do conjunto de movimentação e tocha](docs/images/detalhe-carro-e-tocha.jpg)
+![Modelo 3D do conjunto de movimentação e tocha](Midia/Modelo 3d.jpg)
 
 ## Visão geral
 
