@@ -4,9 +4,10 @@ Projeto de uma mesa de corte a plasma desmontável, desenvolvida para o corte de
 
 O equipamento foi projetado e simulado em computador a partir dos requisitos do cliente, com foco em uma estrutura leve, modular e adaptável para diferentes tipos de serviço.
 
-![Modelo 3D do conjunto de movimentação e tocha](Midia/detalhe-guia-cantoneira.jpg)
+![Mesa Montada](Midia/Perfil.jpg)
 
-![Modelo 3D do conjunto de movimentação e tocha](Midia/Modelo 3d.jpg)
+![Modelo 3D do conjunto de movimentação e tocha](Midia/Modelo_3d.jpg)
+
 
 ## Visão geral
 
@@ -18,10 +19,11 @@ O equipamento foi projetado e simulado em computador a partir dos requisitos do 
 - Controle compacto para facilitar instalação, manutenção e transporte.
 
 ## Estrutura mecânica
+![Montagem](Midia/Montagem.jpg)
 
 A estrutura utiliza uma solução simples e robusta, com guias construídas a partir de cantoneiras. Essa escolha reduz o custo de fabricação sem abrir mão do alinhamento necessário para obter boa precisão nos movimentos.
 
-![Detalhe da guia com cantoneira e rolamentos](docs/images/detalhe-guia-cantoneira.jpg)
+![Detalhe da guia com cantoneira e rolamentos](Midia/detalhe-guia-cantoneira.jpg)
 
 O conjunto foi pensado para ser desmontável. Isso facilita o transporte da máquina e permite que ela seja remontada conforme a necessidade do local de trabalho.
 
@@ -33,9 +35,16 @@ Também foram previstos suportes de encosto para alinhamento dos dois lados da m
 
 ## Tração e movimentação
 
+![Tração e movimentação](Midia/detalhe-carro-e-tocha.png)
+
+![Caixa de controle](Midia/Caixa_de_Controle.jpg)
+
+
 O sistema de movimentação utiliza correias dentadas com alma de aço. Como o conjunto móvel tem baixa inércia, a máquina consegue atingir boas velocidades em deslocamentos sem corte, mantendo uma construção mecânica relativamente simples.
 
 ## Aplicações
+
+![Mesa Montada](Midia/Corte.jpg)
 
 Este projeto pode ser usado como base para:
 
